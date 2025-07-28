@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Danier Chatbot Integration Example</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background: #f5f5f5;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            padding: 40px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #333;
+            text-align: center;
+        }
+        .integration-code {
+            background: #f8f9fa;
+            border: 1px solid #e9ecef;
+            border-radius: 4px;
+            padding: 20px;
+            margin: 20px 0;
+            font-family: 'Courier New', monospace;
+            font-size: 14px;
+            overflow-x: auto;
+        }
+        .step {
+            margin: 30px 0;
+            padding: 20px;
+            border-left: 4px solid #007bff;
+            background: #f8f9fa;
+        }
+        .step h3 {
+            margin-top: 0;
+            color: #007bff;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🤖 Danier Chatbot Integration Guide</h1>
+        
+        <div class="step">
+            <h3>Step 1: Add the Widget Script</h3>
+            <p>Add this script tag to your website's HTML head or body:</p>
+            <div class="integration-code">
+&lt;script src="https://your-frontend-url.vercel.app/danier-chatbot-widget.js"&gt;&lt;/script&gt;
+            </div>
+        </div>
+        
+        <div class="step">
+            <h3>Step 2: Configure the Widget (Optional)</h3>
+            <p>Customize the widget appearance and behavior:</p>
+            <div class="integration-code">
+&lt;script&gt;
+// Configure widget before loading
+window.DanierChatbotConfig = {
+    position: 'bottom-right', // bottom-right, bottom-left, top-right, top-left
+    theme: 'light', // light, dark
+    language: 'en'
+};
+&lt;/script&gt;
+&lt;script src="https://your-frontend-url.vercel.app/danier-chatbot-widget.js"&gt;&lt;/script&gt;
+            </div>
+        </div>
+        
+        <div class="step">
+            <h3>Step 3: Complete Integration Example</h3>
+            <p>Here's a complete example of how to integrate the chatbot:</p>
+            <div class="integration-code">
+&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+    &lt;title&gt;Your Website&lt;/title&gt;
+    &lt;script&gt;
+        // Configure widget
+        window.DanierChatbotConfig = {
+            position: 'bottom-right',
+            theme: 'light',
+            language: 'en'
+        };
+    &lt;/script&gt;
+    &lt;script src="https://your-frontend-url.vercel.app/danier-chatbot-widget.js"&gt;&lt;/script&gt;
+&lt;/head&gt;
+&lt;body&gt;
+    &lt;h1&gt;Welcome to Your Website&lt;/h1&gt;
+    &lt;p&gt;The Danier chatbot will appear as a floating widget.&lt;/p&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+            </div>
+        </div>
+        
+        <div class="step">
+            <h3>Features</h3>
+            <ul>
+                <li>✅ Product search with 17,421+ Danier products</li>
+                <li>✅ FAQ system for returns, shipping, store locations</li>
+                <li>✅ Real-time chat with product recommendations</li>
+                <li>✅ Mobile-responsive design</li>
+                <li>✅ Customizable position and theme</li>
+                <li>✅ Toggle button to show/hide widget</li>
+            </ul>
+        </div>
+        
+        <div class="step">
+            <h3>Important Notes</h3>
+            <ul>
+                <li>🔧 Replace <code>your-frontend-url.vercel.app</code> with your actual Vercel URL after deployment</li>
+                <li>🔧 Replace <code>your-backend-url.railway.app</code> with your actual Railway URL after deployment</li>
+                <li>🌐 The widget works on any website (CORS enabled)</li>
+                <li>📱 Responsive design works on mobile and desktop</li>
+                <li>⚡ Fast loading with optimized product search</li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html> 

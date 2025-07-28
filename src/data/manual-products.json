@@ -1,0 +1,613 @@
+[
+  {
+    "id": 1,
+    "name": "Monaco Reversible Jacket",
+    "category": "jackets",
+    "price": 449,
+    "originalPrice": 797,
+    "currency": "CAD",
+    "colors": [
+      "BLACK"
+    ],
+    "season": "SP25",
+    "description": "Genuine leather reversible jacket with band collar",
+    "image": "monaco-reversible-jacket.jpg",
+    "onSale": true,
+    "url": "https://danier.com/products/monaco-reversible-jacket"
+  },
+  {
+    "id": 2,
+    "name": "Monaco Blazer",
+    "category": "jackets",
+    "price": 577,
+    "originalPrice": 577,
+    "currency": "CAD",
+    "colors": [
+      "BLACK"
+    ],
+    "season": "SP25",
+    "description": "Leather blazer with 3-button front closure",
+    "image": "monaco-blazer.jpg",
+    "onSale": false,
+    "url": "https://danier.com/products/monaco-blazer"
+  },
+  {
+    "id": 3,
+    "name": "Monaco Bomber Jacket",
+    "category": "jackets",
+    "price": 497,
+    "originalPrice": 497,
+    "currency": "CAD",
+    "colors": [
+      "BLACK",
+      "BROWN"
+    ],
+    "season": "SP25",
+    "description": "Classic bomber jacket in premium leather",
+    "image": "monaco-bomber.jpg",
+    "onSale": false,
+    "url": "https://danier.com/products/monaco-bomber-jacket"
+  },
+  {
+    "id": 4,
+    "name": "Monaco Moto Jacket",
+    "category": "jackets",
+    "price": 597,
+    "originalPrice": 597,
+    "currency": "CAD",
+    "colors": [
+      "BLACK",
+      "BROWN"
+    ],
+    "season": "SP25",
+    "description": "Classic moto jacket with asymmetric zipper",
+    "image": "monaco-moto.jpg",
+    "onSale": false,
+    "url": "https://danier.com/products/monaco-moto-jacket"
+  },
+  {
+    "id": 5,
+    "name": "Colette Medium Bucket",
+    "category": "handbags",
+    "price": 229,
+    "originalPrice": 247,
+    "currency": "CAD",
+    "colors": [
+      "BLACK",
+      "BROWN",
+      "TAN"
+    ],
+    "season": "SP25",
+    "description": "Medium bucket bag in premium leather",
+    "image": "colette-medium-bucket.jpg",
+    "onSale": true,
+    "url": "https://danier.com/products/colette-medium-bucket"
+  },
+  {
+    "id": 6,
+    "name": "Rhea Large Satchel",
+    "category": "handbags",
+    "price": 249,
+    "originalPrice": 277,
+    "currency": "CAD",
+    "colors": [
+      "BLACK",
+      "BROWN",
+      "NAVY"
+    ],
+    "season": "SP25",
+    "description": "Large satchel bag with structured design",
+    "image": "rhea-large-satchel.jpg",
+    "onSale": true,
+    "url": "https://danier.com/products/rhea-large-satchel"
+  },
+  {
+    "id": 7,
+    "name": "Arleth Crossbody",
+    "category": "handbags",
+    "price": 239,
+    "originalPrice": 267,
+    "currency": "CAD",
+    "colors": [
+      "BLACK",
+      "BROWN",
+      "WHITE"
+    ],
+    "season": "SP25",
+    "description": "Compact crossbody bag with adjustable strap",
+    "image": "arleth-crossbody.jpg",
+    "onSale": true,
+    "url": "https://danier.com/products/arleth-crossbody"
+  },
+  {
+    "id": 8,
+    "name": "Jovie Shoulder Bag",
+    "category": "handbags",
+    "price": 249,
+    "originalPrice": 297,
+    "currency": "CAD",
+    "colors": [
+      "BLACK",
+      "BROWN",
+      "BURGUNDY"
+    ],
+    "season": "SP25",
+    "description": "Elegant shoulder bag with gold hardware",
+    "image": "jovie-shoulder-bag.jpg",
+    "onSale": true,
+    "url": "https://danier.com/products/jovie-shoulder-bag"
+  },
+  {
+    "id": 9,
+    "name": "Mariam Small Satchel",
+    "category": "handbags",
+    "price": 199,
+    "originalPrice": 199,
+    "currency": "CAD",
+    "colors": [
+      "BLACK",
+      "SADDLE",
+      "WHITE"
+    ],
+    "season": "SP25",
+    "description": "Small satchel in premium leather",
+    "image": "mariam-small-satchel.jpg",
+    "onSale": false,
+    "url": "https://danier.com/products/mariam-small-satchel"
+  },
+  {
+    "id": 10,
+    "name": "Mariam Large Satchel",
+    "category": "handbags",
+    "price": 229,
+    "originalPrice": 229,
+    "currency": "CAD",
+    "colors": [
+      "BLACK",
+      "SADDLE",
+      "WHITE"
+    ],
+    "season": "SP25",
+    "description": "Large satchel in premium leather",
+    "image": "mariam-large-satchel.jpg",
+    "onSale": false,
+    "url": "https://danier.com/products/mariam-large-satchel"
+  },
+  {
+    "id": 11,
+    "name": "Edith Crossbody",
+    "category": "handbags",
+    "price": 199,
+    "originalPrice": 199,
+    "currency": "CAD",
+    "colors": [
+      "BLACK",
+      "WHITE"
+    ],
+    "season": "SP25",
+    "description": "Crossbody bag in premium leather",
+    "image": "edith-crossbody.jpg",
+    "onSale": false,
+    "url": "https://danier.com/products/edith-crossbody"
+  },
+  {
+    "id": 12,
+    "name": "Edith Satchel",
+    "category": "handbags",
+    "price": 249,
+    "originalPrice": 249,
+    "currency": "CAD",
+    "colors": [
+      "BLACK"
+    ],
+    "season": "SP25",
+    "description": "Satchel bag in premium leather",
+    "image": "edith-satchel.jpg",
+    "onSale": false,
+    "url": "https://danier.com/products/edith-satchel"
+  },
+  {
+    "id": 13,
+    "name": "Willowby Camera Bag",
+    "category": "handbags",
+    "price": 159,
+    "originalPrice": 159,
+    "currency": "CAD",
+    "colors": [
+      "BLACK"
+    ],
+    "season": "SP25",
+    "description": "Camera bag in premium leather",
+    "image": "willowby-camera-bag.jpg",
+    "onSale": false,
+    "url": "https://danier.com/products/willowby-camera-bag"
+  },
+  {
+    "id": 14,
+    "name": "Aria Tote",
+    "category": "handbags",
+    "price": 179,
+    "originalPrice": 179,
+    "currency": "CAD",
+    "colors": [
+      "BLACK",
+      "BROWN"
+    ],
+    "season": "SP25",
+    "description": "Structured tote bag in premium leather",
+    "image": "aria-tote.jpg",
+    "onSale": false,
+    "url": "https://danier.com/products/aria-tote"
+  },
+  {
+    "id": 15,
+    "name": "Nova Backpack",
+    "category": "handbags",
+    "price": 189,
+    "originalPrice": 189,
+    "currency": "CAD",
+    "colors": [
+      "BLACK",
+      "BROWN"
+    ],
+    "season": "SP25",
+    "description": "Leather backpack with laptop compartment",
+    "image": "nova-backpack.jpg",
+    "onSale": false,
+    "url": "https://danier.com/products/nova-backpack"
+  },
+  {
+    "id": 16,
+    "name": "Eliam Laptop Bag",
+    "category": "laptop_bags",
+    "price": 349,
+    "originalPrice": 349,
+    "currency": "CAD",
+    "colors": [
+      "BROWN"
+    ],
+    "season": "SP25",
+    "description": "Professional laptop carrier in brown leather",
+    "image": "eliam-laptop-bag.jpg",
+    "onSale": false,
+    "url": "https://danier.com/products/eliam-laptop-bag"
+  },
+  {
+    "id": 17,
+    "name": "Charly Laptop Bag",
+    "category": "laptop_bags",
+    "price": 199,
+    "originalPrice": 199,
+    "currency": "CAD",
+    "colors": [
+      "DARK_BROWN"
+    ],
+    "season": "SP25",
+    "description": "Business laptop bag in dark brown leather",
+    "image": "charly-laptop-bag.jpg",
+    "onSale": false,
+    "url": "https://danier.com/products/charly-laptop-bag"
+  },
+  {
+    "id": 18,
+    "name": "Gilles Laptop Bag",
+    "category": "laptop_bags",
+    "price": 299,
+    "originalPrice": 299,
+    "currency": "CAD",
+    "colors": [
+      "BLACK",
+      "BROWN"
+    ],
+    "season": "SP25",
+    "description": "Premium laptop bag for business use",
+    "image": "gilles-laptop-bag.jpg",
+    "onSale": false,
+    "url": "https://danier.com/products/gilles-laptop-bag"
+  },
+  {
+    "id": 19,
+    "name": "Voyager Duffel Bag",
+    "category": "travel",
+    "price": 129,
+    "originalPrice": 129,
+    "currency": "CAD",
+    "colors": [
+      "BLACK",
+      "BROWN"
+    ],
+    "season": "SP25",
+    "description": "Durable duffel bag for travel",
+    "image": "voyager-duffel.jpg",
+    "onSale": false,
+    "url": "https://danier.com/products/voyager-duffel-bag"
+  },
+  {
+    "id": 20,
+    "name": "Explorer Backpack",
+    "category": "travel",
+    "price": 149,
+    "originalPrice": 149,
+    "currency": "CAD",
+    "colors": [
+      "BLACK",
+      "NAVY"
+    ],
+    "season": "SP25",
+    "description": "Travel backpack with laptop compartment",
+    "image": "explorer-backpack.jpg",
+    "onSale": false,
+    "url": "https://danier.com/products/explorer-backpack"
+  },
+  {
+    "id": 21,
+    "name": "Adventurer Weekender",
+    "category": "travel",
+    "price": 199,
+    "originalPrice": 199,
+    "currency": "CAD",
+    "colors": [
+      "BLACK",
+      "BROWN"
+    ],
+    "season": "SP25",
+    "description": "Weekend travel bag with shoe compartment",
+    "image": "adventurer-weekender.jpg",
+    "onSale": false,
+    "url": "https://danier.com/products/adventurer-weekender"
+  },
+  {
+    "id": 22,
+    "name": "Classic Wallet",
+    "category": "wallets",
+    "price": 89,
+    "originalPrice": 89,
+    "currency": "CAD",
+    "colors": [
+      "BLACK",
+      "BROWN"
+    ],
+    "season": "SP25",
+    "description": "Classic leather wallet",
+    "image": "classic-wallet.jpg",
+    "onSale": false,
+    "url": "https://danier.com/products/classic-wallet"
+  },
+  {
+    "id": 23,
+    "name": "Bifold Wallet",
+    "category": "wallets",
+    "price": 79,
+    "originalPrice": 79,
+    "currency": "CAD",
+    "colors": [
+      "BLACK",
+      "BROWN"
+    ],
+    "season": "SP25",
+    "description": "Bifold leather wallet",
+    "image": "bifold-wallet.jpg",
+    "onSale": false,
+    "url": "https://danier.com/products/bifold-wallet"
+  },
+  {
+    "id": 24,
+    "name": "Cardholder",
+    "category": "wallets",
+    "price": 49,
+    "originalPrice": 49,
+    "currency": "CAD",
+    "colors": [
+      "BLACK",
+      "BROWN"
+    ],
+    "season": "SP25",
+    "description": "Minimalist cardholder",
+    "image": "cardholder.jpg",
+    "onSale": false,
+    "url": "https://danier.com/products/cardholder"
+  },
+  {
+    "id": 25,
+    "name": "Leather Gloves",
+    "category": "gloves",
+    "price": 79,
+    "originalPrice": 79,
+    "currency": "CAD",
+    "colors": [
+      "BLACK",
+      "BROWN"
+    ],
+    "season": "SP25",
+    "description": "Premium leather gloves",
+    "image": "leather-gloves.jpg",
+    "onSale": false,
+    "url": "https://danier.com/products/leather-gloves"
+  },
+  {
+    "id": 26,
+    "name": "Belt",
+    "category": "accessories",
+    "price": 69,
+    "originalPrice": 69,
+    "currency": "CAD",
+    "colors": [
+      "BLACK",
+      "BROWN"
+    ],
+    "season": "SP25",
+    "description": "Classic leather belt",
+    "image": "belt.jpg",
+    "onSale": false,
+    "url": "https://danier.com/products/belt"
+  },
+  {
+    "id": 27,
+    "name": "Leather Care Kit",
+    "category": "accessories",
+    "price": 39,
+    "originalPrice": 39,
+    "currency": "CAD",
+    "colors": [
+      "MULTI"
+    ],
+    "season": "SP25",
+    "description": "Complete leather care and maintenance kit",
+    "image": "leather-care-kit.jpg",
+    "onSale": false,
+    "url": "https://danier.com/products/leather-care-kit"
+  },
+  {
+    "id": 28,
+    "name": "Marcus Messenger Bag",
+    "category": "mens_messengers",
+    "price": 179,
+    "originalPrice": 179,
+    "currency": "CAD",
+    "colors": [
+      "BLACK",
+      "BROWN"
+    ],
+    "season": "SP25",
+    "description": "Professional messenger bag",
+    "image": "marcus-messenger.jpg",
+    "onSale": false,
+    "url": "https://danier.com/products/marcus-messenger-bag"
+  },
+  {
+    "id": 29,
+    "name": "Nolan Crossbody",
+    "category": "mens_messengers",
+    "price": 129,
+    "originalPrice": 129,
+    "currency": "CAD",
+    "colors": [
+      "BLACK",
+      "BROWN"
+    ],
+    "season": "SP25",
+    "description": "Compact crossbody bag",
+    "image": "nolan-crossbody.jpg",
+    "onSale": false,
+    "url": "https://danier.com/products/nolan-crossbody"
+  },
+  {
+    "id": 30,
+    "name": "Tyler Briefcase",
+    "category": "mens_messengers",
+    "price": 249,
+    "originalPrice": 249,
+    "currency": "CAD",
+    "colors": [
+      "BLACK",
+      "BROWN"
+    ],
+    "season": "SP25",
+    "description": "Professional briefcase in premium leather",
+    "image": "tyler-briefcase.jpg",
+    "onSale": false,
+    "url": "https://danier.com/products/tyler-briefcase"
+  },
+  {
+    "id": 31,
+    "name": "Traveler Carry-On",
+    "category": "luggage",
+    "price": 299,
+    "originalPrice": 299,
+    "currency": "CAD",
+    "colors": [
+      "BLACK",
+      "NAVY"
+    ],
+    "season": "SP25",
+    "description": "Premium carry-on luggage",
+    "image": "traveler-carryon.jpg",
+    "onSale": false,
+    "url": "https://danier.com/products/traveler-carry-on"
+  },
+  {
+    "id": 32,
+    "name": "Adventurer Check-In",
+    "category": "luggage",
+    "price": 399,
+    "originalPrice": 399,
+    "currency": "CAD",
+    "colors": [
+      "BLACK",
+      "NAVY"
+    ],
+    "season": "SP25",
+    "description": "Large check-in luggage",
+    "image": "adventurer-checkin.jpg",
+    "onSale": false,
+    "url": "https://danier.com/products/adventurer-check-in"
+  },
+  {
+    "id": 33,
+    "name": "Explorer Rolling Duffel",
+    "category": "luggage",
+    "price": 249,
+    "originalPrice": 249,
+    "currency": "CAD",
+    "colors": [
+      "BLACK",
+      "BROWN"
+    ],
+    "season": "SP25",
+    "description": "Rolling duffel bag for travel",
+    "image": "explorer-rolling-duffel.jpg",
+    "onSale": false,
+    "url": "https://danier.com/products/explorer-rolling-duffel"
+  },
+  {
+    "id": 34,
+    "name": "Classic Oxford",
+    "category": "shoes",
+    "price": 199,
+    "originalPrice": 199,
+    "currency": "CAD",
+    "colors": [
+      "BLACK",
+      "BROWN"
+    ],
+    "season": "SP25",
+    "description": "Classic oxford shoes in premium leather",
+    "image": "classic-oxford.jpg",
+    "onSale": false,
+    "url": "https://danier.com/products/classic-oxford"
+  },
+  {
+    "id": 35,
+    "name": "Chelsea Boot",
+    "category": "shoes",
+    "price": 179,
+    "originalPrice": 179,
+    "currency": "CAD",
+    "colors": [
+      "BLACK",
+      "BROWN"
+    ],
+    "season": "SP25",
+    "description": "Chelsea boots with elastic side panels",
+    "image": "chelsea-boot.jpg",
+    "onSale": false,
+    "url": "https://danier.com/products/chelsea-boot"
+  },
+  {
+    "id": 36,
+    "name": "Loafers",
+    "category": "shoes",
+    "price": 159,
+    "originalPrice": 159,
+    "currency": "CAD",
+    "colors": [
+      "BLACK",
+      "BROWN"
+    ],
+    "season": "SP25",
+    "description": "Comfortable leather loafers",
+    "image": "loafers.jpg",
+    "onSale": false,
+    "url": "https://danier.com/products/loafers"
+  }
+]
